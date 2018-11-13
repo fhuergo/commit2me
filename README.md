@@ -2,7 +2,7 @@
 
 commit2me is an awesome upcoming app where users will be able to see how many times other potential romantic prospects have flaked! commit2me tracks you and your partner's location to ensure you go when and where you agreed to, with lenient hours agreed to between users.
 
-Check out [`the demo video`](https://www.youtube.com/watch?v=RtvduXdDL1Q) to see an example!
+Check out [the demo video](https://www.youtube.com/watch?v=RtvduXdDL1Q) to see an example!
 
 ---
 
